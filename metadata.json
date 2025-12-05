@@ -1,0 +1,5 @@
+{
+  "name": "DocuFlow AI",
+  "description": "A powerful Markdown to Word converter powered by Gemini. Features real-time LaTeX preview, AI-assisted content repair, and high-fidelity DOCX export with equation support.",
+  "requestFramePermissions": []
+}
